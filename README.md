@@ -1,16 +1,91 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**i252010-ops/i252010-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Waving capsule-render header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=220&section=header&text=Code3achine&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student&descAlignY=55&descSize=22" alt="header banner" />
 
-Here are some ideas to get you started:
+<!-- Typing SVG animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=CS+Student+%7C+C%2B%2B+%26+Systems+Enthusiast;Building+Games+with+C%2B%2B+%2F+SFML;Exploring+Supabase+%2B+Cloud+Backends;Automating+Builds+with+CMake+%26+GitHub+Actions" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<!-- Profile view counter + follower count -->
+<img src="https://komarev.com/ghpvc/?username=Code3achine&color=7dd3fc&style=flat-square&label=Profile+Views" alt="profile view counter" />
+<img src="https://img.shields.io/github/followers/Code3achine?label=Followers&style=flat-square&color=7dd3fc" alt="github followers" />
+
+</div>
+
+<br/>
+
+## 🧠 Who I Am
+
+```typescript
+const Code3achine = {
+  title: "Software Engineering Student",
+  stack: {
+    languages: ["C++", "Python", "SQL", "Java"],
+    backendAndCloud: ["Supabase"],
+    frameworksAndLibraries: ["SFML", "CMake"],
+    devToolsAndAI: ["VS Code", "Visual Studio", "Claude Code", "Dev-C++", "Antigravity"],
+    buildToolsAndDevOps: ["GCC / MinGW", "CMake", "Git", "GitHub Actions", "Windows", "Linux"],
+  },
+  launchedProjects: ["Snowbrows", "Battleship-Game"],
+  certifications: [],
+  status: "Building games and sharpening C++ fundamentals",
+  openTo: ["Software development collaborations", "AI-powered project opportunities"],
+} as const;
+```
+
+<br/>
+
+## 🚀 Featured Projects
+
+### 🎮 Snowbrows
+
+A C++ / SFML remake of the classic Snow Bros arcade game. Two-player local co-op, enemy encasing mechanic, boss fights, item shop, and persistent leaderboard.
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Code3achine&repo=Snowbrows&theme=dark&hide_border=true&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Snowbrows repo pin" />
+</div>
+
+| Layer | Technology |
+|---|---|
+| Language | C++ |
+| Graphics/Game Framework | SFML |
+| Build System | CMake |
+| Version Control / CI | Git, GitHub Actions |
+
+🔗 **Code:** [github.com/Code3achine/Snowbrows](https://github.com/Code3achine/Snowbrows)
+
+<br/>
+
+### 🚢 Battleship-Game
+
+C++ console implementation of the Battleship strategy game. Play single-player against the computer or 2-player local PvP, built using standard C++ libraries and the Windows Console API for colored graphics.
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Code3achine&repo=Battleship-Game&theme=dark&hide_border=true&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Battleship-Game repo pin" />
+</div>
+
+| Layer | Technology |
+|---|---|
+| Language | C++ |
+| Graphics/UI | Windows Console API |
+| Build System | GCC / MinGW |
+| Version Control | Git |
+
+🔗 **Code:** [github.com/Code3achine/Battleship-Game](https://github.com/Code3achine/Battleship-Game)
+
+<br/>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahad-tariq-9522a1347/)
+[![Email](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a)](mailto:i252010@isb.nu.edu.pk)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0f172a&height=100&section=footer" alt="footer banner" />
