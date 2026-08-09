@@ -11,8 +11,8 @@
 <br/>
 
 <!-- Profile view counter + follower count -->
-<img src="https://komarev.com/ghpvc/?username=Code3achine&color=7dd3fc&style=flat-square&label=Profile+Views" alt="profile view counter" />
-<img src="https://img.shields.io/github/followers/Code3achine?label=Followers&style=flat-square&color=7dd3fc" alt="github followers" />
+<img src="https://komarev.com/ghpvc/?username=i252010-ops&color=7dd3fc&style=flat-square&label=Profile+Views" alt="profile view counter" />
+<img src="https://img.shields.io/github/followers/i252010-ops?label=Followers&style=flat-square&color=7dd3fc" alt="github followers" />
 
 </div>
 
@@ -30,7 +30,7 @@ const Code3achine = {
     devToolsAndAI: ["VS Code", "Visual Studio", "Claude Code", "Dev-C++", "Antigravity"],
     buildToolsAndDevOps: ["GCC / MinGW", "CMake", "Git", "GitHub Actions", "Windows", "Linux"],
   },
-  launchedProjects: ["Snowbrows", "Battleship-Game"],
+  launchedProjects: ["Snowbros", "Battleship-Game"],
   certifications: [],
   status: "Building games and sharpening C++ fundamentals",
   openTo: ["Software development collaborations", "AI-powered project opportunities"],
@@ -41,12 +41,12 @@ const Code3achine = {
 
 ## 🚀 Featured Projects
 
-### 🎮 Snowbrows
+### 🎮 Snowbros
 
 A C++ / SFML remake of the classic Snow Bros arcade game. Two-player local co-op, enemy encasing mechanic, boss fights, item shop, and persistent leaderboard.
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Code3achine&repo=Snowbrows&theme=dark&hide_border=true&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Snowbrows repo pin" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=i252010-ops&repo=Snowbros&theme=dark&hide_border=true&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Snowbros repo pin" />
 </div>
 
 | Layer | Technology |
@@ -56,7 +56,7 @@ A C++ / SFML remake of the classic Snow Bros arcade game. Two-player local co-op
 | Build System | CMake |
 | Version Control / CI | Git, GitHub Actions |
 
-🔗 **Code:** [github.com/Code3achine/Snowbrows](https://github.com/Code3achine/Snowbrows)
+🔗 **Code:** [github.com/i252010-ops/Snowbros](https://github.com/i252010-ops/Snowbros)
 
 <br/>
 
@@ -65,7 +65,7 @@ A C++ / SFML remake of the classic Snow Bros arcade game. Two-player local co-op
 C++ console implementation of the Battleship strategy game. Play single-player against the computer or 2-player local PvP, built using standard C++ libraries and the Windows Console API for colored graphics.
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Code3achine&repo=Battleship-Game&theme=dark&hide_border=true&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Battleship-Game repo pin" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=i252010-ops&repo=Battleship-Game&theme=dark&hide_border=true&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Battleship-Game repo pin" />
 </div>
 
 | Layer | Technology |
@@ -75,7 +75,7 @@ C++ console implementation of the Battleship strategy game. Play single-player a
 | Build System | GCC / MinGW |
 | Version Control | Git |
 
-🔗 **Code:** [github.com/Code3achine/Battleship-Game](https://github.com/Code3achine/Battleship-Game)
+🔗 **Code:** [github.com/i252010-ops/Battleship-Game](https://github.com/i252010-ops/Battleship-Game)
 
 <br/>
 
