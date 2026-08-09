@@ -21,7 +21,7 @@
 ## 🧠 Who I Am
 
 ```typescript
-const i252010_ops = {
+const i252010-ops = {
   title: "CS Student",
   stack: {
     languages: ["C++", "Python", "SQL", "Java"],
