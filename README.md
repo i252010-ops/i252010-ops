@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Waving capsule-render header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=220&section=header&text=i252010-ops&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=SE%20Student&descAlignY=55&descSize=22" alt="header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=220&section=header&text=i252010-ops&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student&descAlignY=55&descSize=22" alt="header banner" />
 
 <!-- Typing SVG animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=SE+Student+%7C+C%2B%2B+%26+Systems+Enthusiast;Building+Games+with+C%2B%2B+%2F+SFML;Exploring+Supabase+%2B+Cloud+Backends;Automating+Builds+with+CMake+%26+GitHub+Actions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=CS+Student+%7C+C%2B%2B+%26+Systems+Enthusiast;Building+Games+with+C%2B%2B+%2F+SFML;Exploring+Supabase+%2B+Cloud+Backends;Automating+Builds+with+CMake+%26+GitHub+Actions" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,8 +21,8 @@
 ## 🧠 Who I Am
 
 ```typescript
-const Code3achine = {
-  title: "Software Engineering Student",
+const i252010_ops = {
+  title: "CS Student",
   stack: {
     languages: ["C++", "Python", "SQL", "Java"],
     backendAndCloud: ["Supabase"],
