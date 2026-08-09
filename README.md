@@ -18,24 +18,51 @@
 
 <br/>
 
-## 🧠 Who I Am
+## 🙋 About Me
 
-```typescript
-const i252010_ops = {
-  title: "CS Student",
-  stack: {
-    languages: ["C++", "Python", "SQL", "Java"],
-    backendAndCloud: ["Supabase"],
-    frameworksAndLibraries: ["SFML", "CMake"],
-    devToolsAndAI: ["VS Code", "Visual Studio", "Claude Code", "Dev-C++", "Antigravity"],
-    buildToolsAndDevOps: ["GCC / MinGW", "CMake", "Git", "GitHub Actions", "Windows", "Linux"],
-  },
-  launchedProjects: ["Snowbros", "Battleship-Game"],
-  certifications: [],
-  status: "Building games and sharpening C++ fundamentals",
-  openTo: ["Software development collaborations", "AI-powered project opportunities"],
-} as const;
-```
+CS Student passionate about C++ and game development.
+
+Currently building games and sharpening my C++ fundamentals, with hands-on projects like **Snowbros** and **Battleship-Game**.
+
+Comfortable across C++, Python, SQL, and Java, with a growing focus on backend/cloud work using Supabase.
+
+🔭 Open to: Software development collaborations, AI-powered project opportunities.
+
+<br/>
+
+## 🌐 Socials
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahad-tariq-9522a1347/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i252010@isb.nu.edu.pk)
+
+</div>
+
+<br/>
+
+## 💻 Tech Stack
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Dev-C++](https://img.shields.io/badge/Dev--C%2B%2B-0058CC?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GCC](https://img.shields.io/badge/GCC%20%2F%20MinGW-4EAA25?style=for-the-badge&logo=gnu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 <br/>
 
@@ -70,14 +97,5 @@ C++ console implementation of the Battleship strategy game. Play single-player a
 🔗 **Code:** [github.com/i252010-ops/Battleship-Game](https://github.com/i252010-ops/Battleship-Game)
 
 <br/>
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahad-tariq-9522a1347/)
-[![Email](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a)](mailto:i252010@isb.nu.edu.pk)
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0f172a&height=100&section=footer" alt="footer banner" />
