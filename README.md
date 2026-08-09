@@ -21,7 +21,7 @@
 ## 🧠 Who I Am
 
 ```typescript
-const i252010-ops = {
+const i252010_ops = {
   title: "CS Student",
   stack: {
     languages: ["C++", "Python", "SQL", "Java"],
@@ -45,10 +45,6 @@ const i252010-ops = {
 
 A C++ / SFML remake of the classic Snow Bros arcade game. Two-player local co-op, enemy encasing mechanic, boss fights, item shop, and persistent leaderboard.
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=i252010-ops&repo=Snowbros&theme=dark&hide_border=true&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Snowbros repo pin" />
-</div>
-
 | Layer | Technology |
 |---|---|
 | Language | C++ |
@@ -63,10 +59,6 @@ A C++ / SFML remake of the classic Snow Bros arcade game. Two-player local co-op
 ### 🚢 Battleship-Game
 
 C++ console implementation of the Battleship strategy game. Play single-player against the computer or 2-player local PvP, built using standard C++ libraries and the Windows Console API for colored graphics.
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=i252010-ops&repo=Battleship-Game&theme=dark&hide_border=true&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Battleship-Game repo pin" />
-</div>
 
 | Layer | Technology |
 |---|---|
