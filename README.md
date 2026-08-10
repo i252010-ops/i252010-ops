@@ -86,7 +86,7 @@ A C++ / SFML remake of the classic Snow Bros arcade game. Two-player local co-op
 | Build System | CMake |
 | Version Control / CI | Git, GitHub Actions |
 
-🔗 **Code:** [github.com/i252010-ops/Snowbros](https://github.com/i252010-ops/Snowbros)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Code3achine/Snowbros)
 
 <br/>
 
@@ -101,7 +101,7 @@ C++ console implementation of the Battleship strategy game. Play single-player a
 | Build System | GCC / MinGW |
 | Version Control | Git |
 
-🔗 **Code:** [github.com/i252010-ops/Battleship-Game](https://github.com/i252010-ops/Battleship-Game)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Code3achine/Battleship-Game)
 
 <br/>
 
