@@ -42,7 +42,7 @@ const i252010_ops = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahad-tariq-9522a1347/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:https://mail.google.com/mail/?view=cm&fs=1&to=i252010@isb.nu.edu.pk&su=Inquiry+from+GitHub)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=i252010@isb.nu.edu.pk&su=Inquiry+from+GitHub)
 
 </div>
 
