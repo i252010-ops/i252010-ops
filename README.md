@@ -18,24 +18,31 @@
 
 <br/>
 
-## 🙋 About Me
+## 🧠 Who I Am
 
-SE Student passionate about C++ and game development.
-
-Currently building games and sharpening my C++ fundamentals, with hands-on projects like **Snowbros** and **Battleship-Game**.
-
-Comfortable across C++, Python, SQL, and Java, with a growing focus on backend/cloud work using Supabase.
-
-🔭 Open to: Software development collaborations, AI-powered project opportunities.
-
-<br/>
+```typescript
+const i252010_ops = {
+  title: "SE Student",
+  stack: {
+    languages: ["C++", "Python", "SQL", "Java"],
+    backendAndCloud: ["Supabase"],
+    frameworksAndLibraries: ["SFML", "CMake"],
+    devToolsAndAI: ["VS Code", "Visual Studio", "Claude Code", "Dev-C++", "Antigravity"],
+    buildToolsAndDevOps: ["GCC / MinGW", "CMake", "Git", "GitHub Actions", "Windows", "Linux"],
+  },
+  launchedProjects: ["Snowbros", "Battleship-Game"],
+  certifications: [],
+  status: "Building games and sharpening C++ fundamentals",
+  openTo: ["Software development collaborations", "AI-powered project opportunities"],
+} as const;
+```
 
 ## 🌐 Socials
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahad-tariq-9522a1347/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i252010@isb.nu.edu.pk)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto.link/send?to=i252010@isb.nu.edu.pk)
 
 </div>
 
